@@ -10,5 +10,5 @@ Work in progress:
 2. Ability to point to a text file or csv to use as search terms.
 
 Resources: 
-FTK Imager, https://accessdata.com/product-download/ftk-imager-version-4-2-0
-Arsenal Image Mounter, https://github.com/ArsenalRecon/Arsenal-Image-Mounter
+-FTK Imager, https://accessdata.com/product-download/ftk-imager-version-4-2-0
+-Arsenal Image Mounter, https://github.com/ArsenalRecon/Arsenal-Image-Mounter
